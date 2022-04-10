@@ -104,9 +104,6 @@ The application will now be running on https://localhost:8080/
 
 ## Authors<a name="authors"></a>
 
-+ [Calden Rodrigues](https://github.com/caldenrodrigues) <br>
-+ [Chaitanyakrishna Dukkipaty](https://github/chaitanyadukkipaty) <br>
-+ [Kyle Lobo](https://github.com/kylelobo) <br>
-+ [Roshan James](https://github.com/sephiroth7712) <br>
++ [Nidhi Thakur](https://github.com/nidhithakur09) <br>
 
 See also the list of [contributors](https://github.com/chaitanyadukkipaty/LegoDoc/contributors) who participated in this project.
