@@ -2,10 +2,7 @@
 
   ![LegoDoc](https://imgur.com/cRFAecF.png)
 
-  [![Hackathon](https://img.shields.io/badge/hackathon-Mumbai-orange.svg)](http://mumbaihackathon.in/) 
   [![Status](https://img.shields.io/badge/status-active-green.svg)]()
-  [![GitHub Issues](https://img.shields.io/github/issues/chaitanyadukkipaty/LegoDoc.svg)](https://github.com/chaitanyadukkipaty/LegoDoc/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/chaitanyadukkipaty/LegoDoc.svg)](https://github.com/chaitanyadukkipaty/LegoDoc/pulls)
   [![License](https://img.shields.io/badge/license-GNU-blue.svg)](LICENSE.md)
 
 </div>
